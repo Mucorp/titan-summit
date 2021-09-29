@@ -5,7 +5,7 @@ If you are reading this means you are one of the chosen.
 
 ## As we have decided in our previous meetup 
 
-1: If the score of any member is **less than 60** in three consecutive weeks they will inturn be given a goal of autosuggestion and calling other members (20)
+1. If the score of any member is **less than 60** in three consecutive weeks they will inturn be given a goal of autosuggestion and calling other members (20)
 
 2. **Ten Marks** are to be allocated to TGR reading each week 
 
