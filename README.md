@@ -1,1 +1,1 @@
-# titan-summit
+Titan Summit
