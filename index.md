@@ -3,7 +3,9 @@
 If you are reading this means you are one of the chosen.
 
 
-## As we have decided in our previous meetup 
+
+
+## Titans Code Of Conduct
 
 1. **10 marks** will be deducted if goals are sent after Sunday 11:59pm. 
 
