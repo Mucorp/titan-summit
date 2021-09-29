@@ -24,3 +24,5 @@ If you are reading this means you are one of the chosen.
 9. Group average number **(Summit Score)** will be calculated after goals discussion.
 
 10. In 12 meetups (3 months) 5 holidays will be allowed.
+
+**Note**: Consecutive 3 leaves will result in immediate expulsion from group.
