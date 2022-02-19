@@ -1,6 +1,6 @@
-# Welcome to Titan Summit
+# Welcome to Titans Alliance
 
-If you are reading this means you are one of the chosen.
+Welcome fellow **Titan**
 
 
 
@@ -11,9 +11,9 @@ If you are reading this means you are one of the chosen.
 
 2. **10 marks** will be deducted if absent without informing a Core Titan. 
 
-3. **10 marks** will be deducted if performance is not sent before Sunday 11:59pm.
+3. Absentees will send goals performance before 9pm Saturday (Before Goals Discussion)  **(10)** 
 
-4. Its mandatory to bring **notebook**. (-5)
+4. Its mandatory to bring **notebook**. (5)
 
 5. If the score of any member is **less than 60** in three consecutive weeks they will inturn be given a goal of autosuggestion and calling other members. (20)
 
