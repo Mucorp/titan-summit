@@ -27,7 +27,10 @@ Welcome fellow **Titan**
 
 10. In 12 meetups (3 months) 5 holidays will be allowed.
 
-11. Non-serious member will be eliminated without intimation. 
-12. Group members will discuss what we learned in last summit. It is recommended to write the main points of discussion and read them before coming.  
+11. Non-serious member will be eliminated without intimation.
+
+12. Weekly goals cant be updated after Thursday 11:59pm (Friday).
+
+13. Group members will discuss what we learned in last summit. It is recommended to write the main points of discussion and read them before coming.  
 
 **Note**: Consecutive 3 leaves will result in immediate expulsion from group.
