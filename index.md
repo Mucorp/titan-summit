@@ -19,9 +19,9 @@ Welcome fellow **Titan**
 
 6. **Ten Marks** are to be allocated to Designated Book Reading each week.
 
-7. **Five Numbers** will be deducted if any member come late by half an hour.
+7. **Ten Marks** will be deducted if any member come late by half an hour.
 
-8. **Ten Numbers** will be deducted if any member doesn't follow the **dress for success** code.
+8. **Ten Marks** will be deducted if any member doesn't follow the **dress for success** code.
 
 9. Group average number **(Summit Score)** will be calculated after goals discussion.
 
