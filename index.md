@@ -7,7 +7,7 @@ Welcome fellow **Titan**
 
 ## Titans Code of Conduct
 
-1. **Ten marks** will be deducted if goals are sent after Sunday 11:59pm. 
+1. **Ten marks** will be deducted if goals are sent after Sunday 11:59 pm. Subsequently **Ten Marks** will be deducted for **each day** goals are sent late.
 
 2. **Ten marks** will be deducted if absent without informing a Core Titan. 
 
